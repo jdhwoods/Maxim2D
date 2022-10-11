@@ -1,0 +1,811 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-10-11T18:35:39.172-04:00
+  initializedAtString: 2022-10-11T18:28:13.565-04:00
+  entries:
+  - path: .collabignore
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Scenes.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\_Scenes.meta
+    projectPath: Assets\_Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Scenes\_example.scenetemplate
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\_Scenes\_example.scenetemplate
+    projectPath: Assets\_Scenes\_example.scenetemplate
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Scenes\_example.scenetemplate.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\_Scenes\_example.scenetemplate.meta
+    projectPath: Assets\_Scenes\_example.scenetemplate.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Scenes\_example.unity
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\_Scenes\_example.unity
+    projectPath: Assets\_Scenes\_example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\_Scenes\_example.unity.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\_Scenes\_example.unity.meta
+    projectPath: Assets\_Scenes\_example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Play Tests.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Play
+      Tests.meta
+    projectPath: Assets\Play Tests.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Play Tests\Play Tests.asmdef
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Play
+      Tests\Play Tests.asmdef
+    projectPath: Assets\Play Tests\Play Tests.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Play Tests\Play Tests.asmdef.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Play
+      Tests\Play Tests.asmdef.meta
+    projectPath: Assets\Play Tests\Play Tests.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Play Tests\TopDownCharacterTests.cs
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Play
+      Tests\TopDownCharacterTests.cs
+    projectPath: Assets\Play Tests\TopDownCharacterTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Play Tests\TopDownCharacterTests.cs.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Play
+      Tests\TopDownCharacterTests.cs.meta
+    projectPath: Assets\Play Tests\TopDownCharacterTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Resources.meta
+    projectPath: Assets\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Prefabs.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Resources\Prefabs.meta
+    projectPath: Assets\Resources\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Prefabs\Characters.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Resources\Prefabs\Characters.meta
+    projectPath: Assets\Resources\Prefabs\Characters.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Prefabs\Characters\Enemy AI.prefab
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Resources\Prefabs\Characters\Enemy
+      AI.prefab
+    projectPath: Assets\Resources\Prefabs\Characters\Enemy AI.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Prefabs\Characters\Enemy AI.prefab.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Resources\Prefabs\Characters\Enemy
+      AI.prefab.meta
+    projectPath: Assets\Resources\Prefabs\Characters\Enemy AI.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Prefabs\Characters\Player.prefab
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Resources\Prefabs\Characters\Player.prefab
+    projectPath: Assets\Resources\Prefabs\Characters\Player.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Prefabs\Characters\Player.prefab.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Resources\Prefabs\Characters\Player.prefab.meta
+    projectPath: Assets\Resources\Prefabs\Characters\Player.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Prefabs\Characters\TopDownCharacter.prefab
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Resources\Prefabs\Characters\TopDownCharacter.prefab
+    projectPath: Assets\Resources\Prefabs\Characters\TopDownCharacter.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Prefabs\Characters\TopDownCharacter.prefab.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Resources\Prefabs\Characters\TopDownCharacter.prefab.meta
+    projectPath: Assets\Resources\Prefabs\Characters\TopDownCharacter.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\AIController.cs
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\AIController.cs
+    projectPath: Assets\Scripts\AIController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\AIController.cs.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\AIController.cs.meta
+    projectPath: Assets\Scripts\AIController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CameraFollow.cs
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\CameraFollow.cs
+    projectPath: Assets\Scripts\CameraFollow.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CameraFollow.cs.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\CameraFollow.cs.meta
+    projectPath: Assets\Scripts\CameraFollow.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameAssembly.asmdef
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\GameAssembly.asmdef
+    projectPath: Assets\Scripts\GameAssembly.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameAssembly.asmdef.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\GameAssembly.asmdef.meta
+    projectPath: Assets\Scripts\GameAssembly.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PlayerController.cs
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\PlayerController.cs
+    projectPath: Assets\Scripts\PlayerController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PlayerController.cs.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\PlayerController.cs.meta
+    projectPath: Assets\Scripts\PlayerController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TopDownCharacter.cs
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\TopDownCharacter.cs
+    projectPath: Assets\Scripts\TopDownCharacter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TopDownCharacter.cs.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\TopDownCharacter.cs.meta
+    projectPath: Assets\Scripts\TopDownCharacter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TopDownCharacterController.cs
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\TopDownCharacterController.cs
+    projectPath: Assets\Scripts\TopDownCharacterController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TopDownCharacterController.cs.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Scripts\TopDownCharacterController.cs.meta
+    projectPath: Assets\Scripts\TopDownCharacterController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Sprites.meta
+    projectPath: Assets\Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Arrow.png
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Sprites\Arrow.png
+    projectPath: Assets\Sprites\Arrow.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Arrow.png.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Sprites\Arrow.png.meta
+    projectPath: Assets\Sprites\Arrow.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Circle.png
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Sprites\Circle.png
+    projectPath: Assets\Sprites\Circle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Circle.png.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Sprites\Circle.png.meta
+    projectPath: Assets\Sprites\Circle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Square.png
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Sprites\Square.png
+    projectPath: Assets\Sprites\Square.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Square.png.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Sprites\Square.png.meta
+    projectPath: Assets\Sprites\Square.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Triangle.png
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Sprites\Triangle.png
+    projectPath: Assets\Sprites\Triangle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Triangle.png.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Sprites\Triangle.png.meta
+    projectPath: Assets\Sprites\Triangle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tiles.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Tiles.meta
+    projectPath: Assets\Tiles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tiles\Generic_Home_1_Layer_1_48x48.png
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Tiles\Generic_Home_1_Layer_1_48x48.png
+    projectPath: Assets\Tiles\Generic_Home_1_Layer_1_48x48.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tiles\Generic_Home_1_Layer_1_48x48.png.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Tiles\Generic_Home_1_Layer_1_48x48.png.meta
+    projectPath: Assets\Tiles\Generic_Home_1_Layer_1_48x48.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tiles\Generic_Home_1_preview_48x48.png
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Tiles\Generic_Home_1_preview_48x48.png
+    projectPath: Assets\Tiles\Generic_Home_1_preview_48x48.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tiles\Generic_Home_1_preview_48x48.png.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Tiles\Generic_Home_1_preview_48x48.png.meta
+    projectPath: Assets\Tiles\Generic_Home_1_preview_48x48.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tiles\Square.png
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Tiles\Square.png
+    projectPath: Assets\Tiles\Square.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tiles\Square.png.meta
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Assets\Tiles\Square.png.meta
+    projectPath: Assets\Tiles\Square.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\manifest.json
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\packages-lock.json
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\boot.config
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\boot.config
+    projectPath: ProjectSettings\boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\MemorySettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\MemorySettings.asset
+    projectPath: ProjectSettings\MemorySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PackageManagerSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\PackageManagerSettings.asset
+    projectPath: ProjectSettings\PackageManagerSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\SceneTemplateSettings.json
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\SceneTemplateSettings.json
+    projectPath: ProjectSettings\SceneTemplateSettings.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimelineSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\TimelineSettings.asset
+    projectPath: ProjectSettings\TimelineSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VersionControlSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\VersionControlSettings.asset
+    projectPath: ProjectSettings\VersionControlSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\XRSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\ProjectSettings\XRSettings.asset
+    projectPath: ProjectSettings\XRSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: README.md
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\README.md
+    projectPath: README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings\Layouts\default-2021.dwlt
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\UserSettings\Layouts\default-2021.dwlt
+    projectPath: UserSettings\Layouts\default-2021.dwlt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings\Search.settings
+    fullPath: C:\Users\demon\Downloads\Unity-2D-Top-Down-Template-master\UserSettings\Search.settings
+    projectPath: UserSettings\Search.settings
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
